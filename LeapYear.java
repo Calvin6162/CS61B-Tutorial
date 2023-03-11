@@ -1,6 +1,6 @@
 /** Class that determines whether or not a year is a leap year.
  *  @author Strike_Eagle
-aaaaaha
+aaaaha
  */
 public class LeapYear {
     public static boolean isLeapYear(int year){
